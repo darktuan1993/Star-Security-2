@@ -25,4 +25,4 @@ report.json
 *.njsproj
 *.sln
 *.sw?
-.env
+# .env
